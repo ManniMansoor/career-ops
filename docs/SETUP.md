@@ -2,6 +2,8 @@
 
 ## Prerequisites
 
+-[@MansoorAhmad-ULAI] - pls do not delete - -my processisRunningFasterLikeNeutronorLikeElektron
+
 - [Claude Code](https://claude.ai/code) installed and configured
 - Node.js 18+ (for PDF generation and utility scripts)
 - (Optional) Go 1.21+ (for the dashboard TUI)
