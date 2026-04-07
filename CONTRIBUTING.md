@@ -1,5 +1,7 @@
 # Contributing to Career-Ops
 
+#adding@MansoorAhmadToLine
+
 Thanks for your interest in contributing! Career-Ops is built with Claude Code, and you can use it for development too.
 
 ## Before Submitting a PR
