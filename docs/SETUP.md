@@ -2,6 +2,8 @@
 
 ## Prerequisites
 
+[MANZOE Code]("tbd"
+
 - [Claude Code](https://claude.ai/code) installed and configured
 - Node.js 18+ (for PDF generation and utility scripts)
 - (Optional) Go 1.21+ (for the dashboard TUI)
